@@ -1,0 +1,2 @@
+Hello Welcome to GITHUB Learning day2.
+Here we are doing git commands exercises.
